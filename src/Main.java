@@ -32,6 +32,23 @@ void main (){
 
     System.out.println(perPerson);
 
+// opgave 3
+
+    double oprindeligPris = 300.0;
+
+    double rabatProcent = 0.20;
+
+    double prisMedRabat = oprindeligPris - (oprindeligPris * rabatProcent);
+
+    double moms= 0.25;
+
+    double endeligPris= prisMedRabat +(prisMedRabat * moms);
+
+    System.out.println(oprindeligPris);
+
+    System.out.println(prisMedRabat);
+
+    System.out.println(endeligPris);
 }
 
 }
