@@ -16,7 +16,21 @@ void main (){
 
     System.out.print(subtotal+samletPris);
 
+// opgave 2
 
+    double mad = 450.0;
+
+    double drikkevarer= 120.0;
+
+    double drikkePenge = 50.0;
+
+    int antalPersoner = 4;
+
+    double total = mad + drikkevarer + drikkePenge;
+
+    double perPerson = total / antalPersoner;
+
+    System.out.println(perPerson);
 
 }
 
