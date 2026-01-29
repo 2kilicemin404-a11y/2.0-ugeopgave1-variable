@@ -64,6 +64,37 @@ public class Main {
 
         System.out.println(prPerson);
 
+//opgave 5
+
+        StringBuilder sb = new StringBuilder();
+        sb.append("Hello everyone");
+
+        String name = "Anna";
+
+        int age = 25;
+
+        sb.append("hello");
+        sb.append(name);
+        sb.append("!");
+        sb.append("you are");
+        sb.append(age);
+        sb.append("years old");
+
+        System.out.println(sb);
+
+
+
+
+
+
+ //opgave 6
+
+        int score = 100;
+
+        System.out.println(score);
+
+
+
 
 
     }
