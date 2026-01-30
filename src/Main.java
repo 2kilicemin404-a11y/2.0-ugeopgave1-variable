@@ -93,6 +93,83 @@ public class Main {
 
         System.out.println(score);
 
+         score =+ 50;
+
+         System.out.println(score);
+
+         score =+ 25;
+
+         System.out.println(score);
+
+//opgave 7
+
+        int liv = 100;
+
+        liv -= 15;
+
+        System.out.println(liv);
+
+        liv -= 20;
+
+        System.out.println(liv);
+
+//opgave 8
+
+        int pris = 100;
+
+        System.out.println(pris);
+
+        pris *= 2;
+
+        System.out.println(pris);
+
+//opgave 9
+
+    int taeller = 10;
+
+    System.out.println(taeller);
+
+    taeller++;
+
+    System.out.println(taeller);
+
+    taeller--;
+
+    System.out.println(taeller);
+
+ //opgave 10
+
+        int tal= 10;
+
+        tal += 5;
+
+        System.out.println(tal);
+
+        tal -= 3;
+
+        System.out.println(tal);
+
+        tal++;
+
+        System.out.println(tal);
+
+        tal--;
+
+        System.out.println(tal);
+
+ // opgave 11
+
+        String salg = "laptop";
+
+        double price= 7999.9;
+
+        boolean multiple = true;
+
+        int leftover = 15;
+
+        double rabat = 0.10;
+
+        String produkter = "Electronics";
 
 
 
